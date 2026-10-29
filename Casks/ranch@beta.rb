@@ -1,6 +1,6 @@
 cask "ranch@beta" do
-  version "0.4.0-rc.1"
-  sha256 "bbdd6c3a1aba0e2bd152ae67c2b701ba09b5e0d5d056131eb79ae0bda942650e"
+  version "0.4.0"
+  sha256 "c1dc84b4bbf5fd63e6be09fcc1e05785828e78c3edad21a1c6c7608de95f37b7"
 
   url "https://github.com/Bramvanosta/Ranch/releases/download/v#{version}/Ranch_#{version}_universal.dmg"
   name "Ranch"
