@@ -22,7 +22,7 @@ Ranch updates itself; `brew upgrade --cask --greedy` also picks up a new version
 
 ### Retake
 
-[Retake](https://github.com/Bramvanosta/Video) turns a written scenario into a finished product video of a web app.
+[Retake](https://github.com/Bramvanosta/Retake) turns a written scenario into a finished product video of a web app.
 
 ```bash
 brew install --cask bramvanosta/tap/retake        # stable releases
